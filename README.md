@@ -1,2 +1,2 @@
-# hello-world
+# hello-class
 This is a repository
